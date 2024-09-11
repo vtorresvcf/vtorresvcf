@@ -19,8 +19,9 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
   
 </p>
 
-![Top Langs](https://https://vtorresvcf.vercel.app/api/top-langs/?username=vtorres&layout=compact)
+![Top Langs](https://https://vtorresvcf.vercel.app/api/top-langs/?username=vtorresvcf&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresvcf&layout=pie)](https://github.com/vtorresvcf/vtorresvcf)
 
 <!--
 **vtorresvcf/vtorresvcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
