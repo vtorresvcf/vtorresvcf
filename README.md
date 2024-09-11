@@ -12,8 +12,7 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-  <a href="https://es.react.dev/" target="_blank"> <img src="https://github.com/user-attachments/assets/ddfe6d66-366c-45f2-9a8a-67d14c3d8587
-"/> </a> 
+  <a href="https://es.react.dev/" target="_blank"> <img src="https://github.com/user-attachments/assets/ddfe6d66-366c-45f2-9a8a-67d14c3d8587.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
