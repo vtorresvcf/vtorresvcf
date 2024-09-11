@@ -7,7 +7,7 @@
 Soy programador Full Stack, me apasiona construir aplicaciones web tanto del back como del front. Algunas tecnologías con las que disfruto al programar incluyen Javascript, React, Python, Flask y SQL Alchemy entre otras. Mi objetivo es seguir
 aprendiendo con total dedicación, vocación, motivación e ilusión  y demostrar todo mi potencial.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vtorresvcf&repo=vtorresvcf)](https://github.com/vtorresvcf/vtorresvcf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vtorresvcf&repo=Loopy)](https://github.com/vtorresvcf/Loopy)
   
 
 <p align="left"> 
