@@ -1,6 +1,10 @@
 <h3>Hola a tod@as!!!👋 Yo soy Vicente Torres </h3>
 
-![Header](./your-header-image-name.png)
+<header>
+  <img>
+[Header](./your-header-image-name.png)</img>
+</header>
+!
 
 <p>Soy programador Full Stack, me apasiona construir aplicaciones web tanto del back como del front. Algunas tecnologías con las que disfruto al programar incluyen Javascript, React, Python, Flask y SQL Alchemy entre otras. Mi objetivo es seguir
 aprendiendo con total dedicación, vocación, motivación e ilusión  y demostrar todo mi potencial.</p>
