@@ -19,7 +19,7 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtorres&layout=compact)
+![Top Langs](https://https://vtorresvcf.vercel.app/api/top-langs/?username=vtorres&layout=compact)
 
 
 <!--
