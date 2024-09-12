@@ -9,7 +9,7 @@
 </p>
 <hr width="100%" >
 
-### 👨🏻‍💻 &nbsp;About me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Me entusiasma crear aplicaciones web y descubrir tecnologías emergentes. .\
 🎓 &nbsp;Estoy comprometido con un aprendizaje continuo, lleno de dedicación, motivación e ilusión, para desarrollar y demostrar todo mi potencial. .\
@@ -18,7 +18,6 @@
 💬 &nbsp;No dudes en comunicarte conmigo, simplemente para tener una conversación interesante..\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a vtorresvcf@gmail.com! Intentaré responderte lo antes posible..\
 
-#### A little more about me
 ```javascript
 const vicente = {
   pronouns: "He" | "Him",
@@ -34,7 +33,7 @@ const vicente = {
 
 <hr width="100%" >
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tecnologías
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -75,18 +74,4 @@ Credits: [Vtorresvcf](https://github.com/Vtorresvcf)
 Last Edited on: 12/09/2024
 
 
-<!--
-**vtorresvcf/vtorresvcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
