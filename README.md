@@ -12,6 +12,17 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
 </p>
 <hr width="100%" >
 
+### 👨🏻‍💻 &nbsp;About me
+
+💡 &nbsp;Me entusiasma crear aplicaciones web y descubrir tecnologías emergentes. .\
+🎓 &nbsp;Estoy comprometido con un aprendizaje continuo, lleno de dedicación, motivación e ilusión, para desarrollar y demostrar todo mi potencial. .\
+🌱 &nbsp;Estoy en camino de seguir aprendiendo nuevas skills.\
+✍️ &nbsp;En mi tiempo libre me gusta leer y conectar con la naturaleza.\
+💬 &nbsp;No dudes en comunicarte conmigo, simplemente para tener una conversación interesante..\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a vtorresvcf@gmail.com! Intentaré responderte lo antes posible..\
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
