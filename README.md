@@ -10,18 +10,10 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vtorresvcf&repo=Loopy)](https://github.com/vtorresvcf/Loopy)
   
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  
-</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresvcf&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresvcf&layout=pie)](https://github.com/vtorresvcf/vtorresvcf)
 ![Vtorres's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtorresvcf&show_icons=true&theme=dark)
 <!--
 **vtorresvcf/vtorresvcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
