@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola a tod@s!!! Yo soy Vicente Torres 🤙<width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Programador+Full-Stack;Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Bienvenido+a+mi+perfil+de+Github;Yo+soy+programador+Full-Stack)](https://git.io/typing-svg)
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -17,6 +17,19 @@
 ✍️ &nbsp;En mi tiempo libre me gusta leer y conectar con la naturaleza.\
 💬 &nbsp;No dudes en comunicarte conmigo, simplemente para tener una conversación interesante..\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a vtorresvcf@gmail.com! Intentaré responderte lo antes posible..\
+
+#### A little more about me
+```javascript
+const vicente = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "HTML", "CSS", "React"],
+  askMeAbout: ["web dev", "full-stack dev", "python", "flask"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
+      backend: ["Flask", "JS"],
+  }
+}
+```
 
 
 <hr width="100%" >
