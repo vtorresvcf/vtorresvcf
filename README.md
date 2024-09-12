@@ -10,7 +10,7 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
+<hr width="60%" >
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -31,6 +31,7 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresvcf&layout=compact)
 [![Vtorresvcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtorresvcf)](https://github.com/vtorresvcf/vtorresvcf)
 
+<hr width="60%" >
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -39,7 +40,7 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
 <a href="https://www.instagram.com/vtorresvcf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vtorresvcf" height="30" width="40" /></a>
 </p>
 
-
+<hr width="60%" >
 
 Last Edited on: 12/09/2024
 
