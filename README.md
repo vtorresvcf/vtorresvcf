@@ -12,10 +12,10 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
 </p>
 
 <h3>My GitHub Stats</h3>
-<p align="center>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresvcf&layout=compact)
 [![Vtorresvcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtorresvcf)](https://github.com/vtorresvcf/vtorresvcf)
-</p>
+
 <br>
 
 
