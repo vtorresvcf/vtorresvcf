@@ -21,8 +21,8 @@ aprendiendo con total dedicación, vocación, motivación e ilusión  y demostra
 💬 &nbsp;No dudes en comunicarte conmigo, simplemente para tener una conversación interesante..\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a vtorresvcf@gmail.com! Intentaré responderte lo antes posible..\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<hr width="100%" >
 
 ### 🛠 &nbsp;Tech Stack
 
