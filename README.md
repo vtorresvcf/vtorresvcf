@@ -7,7 +7,7 @@
 Soy programador Full Stack, me apasiona construir aplicaciones web tanto del back como del front. Algunas tecnologías con las que disfruto al programar incluyen Javascript, React, Python, Flask y SQL Alchemy entre otras. Mi objetivo es seguir
 aprendiendo con total dedicación, vocación, motivación e ilusión  y demostrar todo mi potencial.
 
-<p align= "centro"> 
+<p align = " centro "> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresvcf&layout=compact)
 [![Vtorresvcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtorresvcf)](https://github.com/vtorresvcf/vtorresvcf)
 </p>
