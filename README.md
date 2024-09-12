@@ -63,7 +63,7 @@ const vicente = {
 <p align="left">
 <a href="https://www.linkedin.com/in/vicente-torres-luna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vtorresvcf" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vtorresvcf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vtorresvcf" height="30" width="40" /></a>
-<a href = 'https://www.github.com/vtorresvcf'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.github.com/vtorresvcf'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="vtorresvcf" height="30" width="40"/></a>
   
 </p>
 
