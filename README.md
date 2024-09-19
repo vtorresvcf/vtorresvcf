@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey!!! 🤙 Soy Vicente Torres <width="30px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=c5f015&center=true&vCenter=true&width=900&height=110&lines=Bienvenido+a+mi+perfil+de+Github;Yo+soy+programador+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=c5f015&center=true&vCenter=true&width=900&height=110&lines=Bienvenido+a+mi+perfil+de+Github;Soy+programador+Full-Stack)](https://git.io/typing-svg)
 
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
