@@ -51,7 +51,11 @@ const vicente = {
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align = "center">
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresvcf&layout=compact" />
+	<img src = "https://github.com/vtorresvcf/vtorresvcf" />
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vtorresvcf&layout=compact)
 [![Vtorresvcf's GitHub stats](https://github-readme-stats.vercel.app/api?username=vtorresvcf)](https://github.com/vtorresvcf/vtorresvcf)
