@@ -24,8 +24,8 @@ const vicente = {
   code: ["Javascript", "Python", "HTML", "CSS", "React"],
   askMeAbout: ["web dev", "full-stack dev", "python", "flask"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-      backend: ["Flask", "JS"],
+      frontend: ["HTML", "CSS", "JS", "Bootstrap", "Tailwind", "Zustand, "React"],
+      backend: ["Flask", "SqlAlchemy"],
   }
 }
 ```
